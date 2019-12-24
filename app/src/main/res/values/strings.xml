@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Timer</string>
+    <string name="back">Back</string>
+
+    <string name="headerText">Clock</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="clock">00:00</string>
+    <string name="timer">Timer</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="stopwatch">"00:00:000"</string>
+    <string name="blankTime" />
+    <string name="clockTime">Clock</string>
+
+    <string name="toastStart">Timer started</string>
+    <string name="toastStop">Timer stopped</string>
+    <string name="toastReset">Timer reset</string>
+</resources>
