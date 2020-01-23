@@ -1,8 +1,8 @@
 # Clock-Timer-App
-Features:
--Gives time with current time zone
--Alarm Clock
--Stop Watch
+Features: <br />
+-Gives time with current time zone <br />
+-Alarm Clock <br />
+-Stop Watch <br />
 
 <a href="https://imgflip.com/gif/3mx82m"><img src="https://i.imgflip.com/3mx82m.gif" title="made at imgflip.com"/></a>
 
