@@ -1,4 +1,4 @@
-# Clock-Timer-App
+# Clock/Timer App
 Features: <br />
 -Gives time with current time zone <br />
 -Alarm Clock <br />
