@@ -4,7 +4,9 @@ Features: <br />
 -Alarm Clock <br />
 -Stop Watch <br />
 
-<a href="https://imgflip.com/gif/3mx82m"><img src="https://i.imgflip.com/3mx82m.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3mx96v"><img src="https://i.imgflip.com/3mx96v.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3mx9a6"><img src="https://i.imgflip.com/3mx9a6.gif" title="made at imgflip.com"/></a>
 
 ## Built With
 
